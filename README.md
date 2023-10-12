@@ -46,6 +46,7 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+![243186432-0674366d-8512-44ba-bebd-4ab968297de9](https://github.com/Yuvaraj878/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/118622554/bccb2a48-4335-4263-b46b-cc3611e5b986)
 
 ### Name: YUVARAJ.S
 ### Register Number: 212222240119
